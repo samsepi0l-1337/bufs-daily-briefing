@@ -1,52 +1,5 @@
 {
   "date": "2026-10-30",
-  "own_history": {
-    "state": "ok",
-    "programs": [
-      {
-        "title": "[신입생PSC세미나II 1시간 인정] 2026-2학기 전공설명회",
-        "period": "2026.10.27 ~ 2026.10.28",
-        "end": "2026-10-28",
-        "points": 1,
-        "status": "승인(수료대상자)",
-        "state": "in_progress"
-      },
-      {
-        "title": "[신입생PSC세미나 2시간 인정] 2026학년도 2학기 ‘리터러시 코칭: 디지털과 의사소통’ 특강 2회 차 - 인터넷과 정보보안",
-        "period": "2026.10.27 ~ 2026.10.27",
-        "end": "2026-10-27",
-        "points": 2,
-        "status": "수료",
-        "state": "completed"
-      },
-      {
-        "title": "[신입생PSC세미나 2시간 인정] 2026학년도 2학기 ‘리터러시 코칭: 디지털과 의사소통’ 특강 1회 차 - AI에게 대체되지 않으려면!",
-        "period": "2026.09.28 ~ 2026.09.28",
-        "end": "2026-09-28",
-        "points": 2,
-        "status": "수료",
-        "state": "completed"
-      },
-      {
-        "title": "[신입생PSC세미나 2시간 인정] 2026학년도 1학기 ‘리터러시 코칭: 디지털과 의사소통’ 특강 2회 차 - 시스템 반도체의 탄생과 Fabless/Foundry",
-        "period": "2026.05.06 ~ 2026.05.06",
-        "end": "2026-05-06",
-        "points": 2,
-        "status": "수료",
-        "state": "completed"
-      },
-      {
-        "title": "[신입생PSC세미나 1시간 인정] 2026학년도 1학기 전공박람회",
-        "period": "2026.04.07 ~ 2026.04.08",
-        "end": "2026-04-08",
-        "points": 1,
-        "status": "수료",
-        "state": "completed"
-      }
-    ],
-    "total_points": 15,
-    "expected_points": 16
-  },
   "notices": [
     {
       "no": 11131,
@@ -299,24 +252,6 @@
       "new": false
     },
     {
-      "no": 11111,
-      "title": "국방기술품질원 2026년 하반기 정기 채용",
-      "date": "2026-10-26",
-      "url": "https://www.bufs.ac.kr/bbs/board.php?bo_table=notice_emp&wr_id=11324",
-      "pinned": false,
-      "board": "notice_emp",
-      "reasons": [
-        "취업·현장실습"
-      ],
-      "summary": "제목 기준 안내입니다. 국방기술품질원의 2026년 하반기 정기 채용 공고이며, 본문이 없어 접수 기간과 지원 자격은 원문에서 확인해야 합니다.",
-      "reason": "취업·현장실습 관심사에 해당하고 기관 성격상 컴퓨터공학전공과 연결될 수 있지만 직무와 자격은 원문에서 확인해야 합니다.",
-      "score": 3,
-      "source": "agent",
-      "body_unavailable": true,
-      "attachments": [],
-      "new": false
-    },
-    {
       "no": 749,
       "title": "2026-2학기 대학생청소년교육지원 장학생 2차 선발 안내",
       "date": "2026-10-23",
@@ -471,6 +406,44 @@
       "new": false
     },
     {
+      "no": 11139,
+      "title": "2026년 서울물재생시설공단 하반기 정규직 채용공고",
+      "date": "2026-10-30",
+      "url": "https://www.bufs.ac.kr/bbs/board.php?bo_table=notice_emp&wr_id=11353",
+      "pinned": false,
+      "board": "notice_emp",
+      "reasons": [
+        "취업·현장실습"
+      ],
+      "summary": "본문은 이미지·첨부파일로 제공됨",
+      "reason": "취업·현장실습",
+      "score": 2,
+      "source": "rule",
+      "body_unavailable": true,
+      "attachments": [
+        "서울물재생시설공단 2026년 하반기 정규직 채용공고.pdf"
+      ],
+      "new": true
+    },
+    {
+      "no": 11138,
+      "title": "[서민금융진흥원 2026년 제4차 기간제(민생지킴대출) 직원 채용] (~11.12.)",
+      "date": "2026-10-30",
+      "url": "https://www.bufs.ac.kr/bbs/board.php?bo_table=notice_emp&wr_id=11352",
+      "pinned": false,
+      "board": "notice_emp",
+      "reasons": [
+        "취업·현장실습"
+      ],
+      "summary": "● 공고 기간: 2026. 10.",
+      "reason": "취업·현장실습",
+      "score": 2,
+      "source": "rule",
+      "body_unavailable": false,
+      "attachments": [],
+      "new": true
+    },
+    {
       "no": 11130,
       "title": "[그랜드 하얏트 제주] 객실·식음·조리 사원 채용 (마감시까지)",
       "date": "2026-10-29",
@@ -601,10 +574,7 @@
       "score": 2,
       "source": "agent",
       "body_unavailable": true,
-      "attachments": [
-        "공고문_2026년 2학기 거창군 지역출신 대학생 등록금 지원사업.pdf",
-        "신청서 서식.hwpx"
-      ],
+      "attachments": [],
       "new": false
     },
     {
@@ -1334,6 +1304,53 @@
       "new": false
     }
   ],
+  "own_history": {
+    "state": "ok",
+    "programs": [
+      {
+        "title": "[신입생PSC세미나II 1시간 인정] 2026-2학기 전공설명회",
+        "period": "2026.10.27 ~ 2026.10.28",
+        "end": "2026-10-28",
+        "points": 1,
+        "status": "승인(수료대상자)",
+        "state": "in_progress"
+      },
+      {
+        "title": "[신입생PSC세미나 2시간 인정] 2026학년도 2학기 ‘리터러시 코칭: 디지털과 의사소통’ 특강 2회 차 - 인터넷과 정보보안",
+        "period": "2026.10.27 ~ 2026.10.27",
+        "end": "2026-10-27",
+        "points": 2,
+        "status": "수료",
+        "state": "completed"
+      },
+      {
+        "title": "[신입생PSC세미나 2시간 인정] 2026학년도 2학기 ‘리터러시 코칭: 디지털과 의사소통’ 특강 1회 차 - AI에게 대체되지 않으려면!",
+        "period": "2026.09.28 ~ 2026.09.28",
+        "end": "2026-09-28",
+        "points": 2,
+        "status": "수료",
+        "state": "completed"
+      },
+      {
+        "title": "[신입생PSC세미나 2시간 인정] 2026학년도 1학기 ‘리터러시 코칭: 디지털과 의사소통’ 특강 2회 차 - 시스템 반도체의 탄생과 Fabless/Foundry",
+        "period": "2026.05.06 ~ 2026.05.06",
+        "end": "2026-05-06",
+        "points": 2,
+        "status": "수료",
+        "state": "completed"
+      },
+      {
+        "title": "[신입생PSC세미나 1시간 인정] 2026학년도 1학기 전공박람회",
+        "period": "2026.04.07 ~ 2026.04.08",
+        "end": "2026-04-08",
+        "points": 1,
+        "status": "수료",
+        "state": "completed"
+      }
+    ],
+    "total_points": 15,
+    "expected_points": 16
+  },
   "eport": {
     "status": "ok",
     "tables": [],
