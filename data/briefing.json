@@ -71,7 +71,7 @@
       "source": "agent",
       "body_unavailable": false,
       "attachments": [],
-      "new": true
+      "new": false
     },
     {
       "no": 11135,
@@ -92,7 +92,7 @@
         "2026 부산대 외유박 참가 기업소개.pdf",
         "구직자 사전등록 양식_Kotra x PNU Job Fair.xlsx"
       ],
-      "new": true
+      "new": false
     },
     {
       "no": 11129,
@@ -293,24 +293,6 @@
       "new": false
     },
     {
-      "no": 11109,
-      "title": "HANJIN GLOBAL 항공무역 사무원 인턴 채용 (오리건 포틀랜드) 공고 (~11/22)",
-      "date": "2026-10-23",
-      "url": "https://www.bufs.ac.kr/bbs/board.php?bo_table=notice_emp&wr_id=11322",
-      "pinned": false,
-      "board": "notice_emp",
-      "reasons": [
-        "취업·현장실습"
-      ],
-      "summary": "본문 기준으로 HANJIN GLOBAL의 항공무역 사무원 인턴 채용을 안내합니다. 지원은 영문이력서로 회신하거나 상담을 신청하는 방식이며, 제목에 11월 22일까지로 적혀 있습니다.",
-      "reason": "취업·현장실습 관심사에 해당하는 포틀랜드 현장 인턴이고 11월 22일까지라 23일 남았습니다. 컴퓨터공학전공 1학년의 자격 요건은 상담에서 확인해야 합니다.",
-      "score": 3,
-      "source": "agent",
-      "body_unavailable": false,
-      "attachments": [],
-      "new": false
-    },
-    {
       "no": 748,
       "title": "2026년 2학기 푸른등대 기부장학금(2차) 신규장학생 선발 안내",
       "date": "2026-10-22",
@@ -342,25 +324,6 @@
       ],
       "summary": "제목 기준 안내입니다. 한국고등교육재단의 인재림 제7기 장학생 선발 모집 공고이며, 본문이 없어 모집 기간과 자격은 원문에서 확인해야 합니다.",
       "reason": "장학 관심사에 해당하는 재단 장학생 선발이라 1학년 컴퓨터공학전공 학생도 자격 요건을 확인해볼 만합니다.",
-      "score": 3,
-      "source": "agent",
-      "body_unavailable": true,
-      "attachments": [],
-      "new": false
-    },
-    {
-      "no": 739,
-      "title": "2026-2학기 인턴십 장학생 3차 선발 안내",
-      "date": "2026-09-29",
-      "url": "https://www.bufs.ac.kr/bbs/board.php?bo_table=notice_sch&wr_id=793",
-      "pinned": false,
-      "board": "notice_sch",
-      "reasons": [
-        "장학",
-        "취업·현장실습"
-      ],
-      "summary": "제목 기준 안내입니다. 2026-2학기 인턴십 장학생 3차 선발을 알리는 공지지만 본문을 가져오지 못해 모집 기간과 신청 방법은 원문에서 확인해야 합니다.",
-      "reason": "장학과 취업·현장실습 관심사에 모두 걸리지만 9월 29일 게시된 3차 선발이라 접수 기간이 지났을 수 있습니다.",
       "score": 3,
       "source": "agent",
       "body_unavailable": true,
@@ -439,6 +402,26 @@
       "body_unavailable": true,
       "attachments": [],
       "new": false
+    },
+    {
+      "no": 753,
+      "title": "2026년 통영시 저소득 대학생 장학금 지원대상자 선발",
+      "date": "2026-10-30",
+      "url": "https://www.bufs.ac.kr/bbs/board.php?bo_table=notice_sch&wr_id=807",
+      "pinned": false,
+      "board": "notice_sch",
+      "reasons": [
+        "장학"
+      ],
+      "summary": "본문은 이미지·첨부파일로 제공됨",
+      "reason": "장학",
+      "score": 2,
+      "source": "rule",
+      "body_unavailable": true,
+      "attachments": [
+        "2026년 통영시 저소득 대학생 장학금 지원대상자 선발 공고.hwpx"
+      ],
+      "new": true
     },
     {
       "no": 11130,
@@ -529,7 +512,7 @@
         "수강·학사일정"
       ],
       "summary": "포스터에 기재된 강의 외 동일 업체 내 희망 강의가 있는 경우 담당자와 협의 후 수강 가능",
-      "reason": "추천 근거: 수강·학사일정",
+      "reason": "수강·학사일정",
       "score": 2,
       "source": "rule",
       "body_unavailable": false,
@@ -571,7 +554,10 @@
       "score": 2,
       "source": "agent",
       "body_unavailable": true,
-      "attachments": [],
+      "attachments": [
+        "공고문_2026년 2학기 거창군 지역출신 대학생 등록금 지원사업.pdf",
+        "신청서 서식.hwpx"
+      ],
       "new": false
     },
     {
@@ -838,7 +824,7 @@
         "수강·학사일정"
       ],
       "summary": "",
-      "reason": "추천 근거: 수강·학사일정",
+      "reason": "수강·학사일정",
       "score": 2,
       "source": "rule",
       "body_unavailable": true,
@@ -972,7 +958,7 @@
       "attachments": [
         "★2027-전기 국립부경대학교 글로벌정책대학원 신입생 모집요강.pdf"
       ],
-      "new": true
+      "new": false
     },
     {
       "no": 11122,
@@ -1190,7 +1176,7 @@
       "source": "agent",
       "body_unavailable": true,
       "attachments": [],
-      "new": true
+      "new": false
     },
     {
       "no": 0,
@@ -1641,6 +1627,7 @@
         "area": "",
         "points": null,
         "origin": "notice",
+        "posted": "2026-10-29",
         "summary": "본문 기준으로 대학일자리플러스센터의 취업 준비 특강을 안내합니다. 11월 13일 14시부터 16시까지 D동 106호에서 열리며, 재학생은 BUFS 인재시스템으로 신청하고 선착순으로 마감됩니다.",
         "reason": "취업·현장실습 관심사와 맞고 재학생은 인재시스템으로 신청합니다. 1학년 컴퓨터공학전공 학생도 참여할 수 있으며 행사는 11월 13일입니다.",
         "score": 4,
@@ -1655,6 +1642,7 @@
         "area": "",
         "points": null,
         "origin": "notice",
+        "posted": "2026-10-19",
         "summary": "본문 기준으로 2026년 11월 4일(수) 14시 D434호에서 열리는 창업 특강 '창업 치트키 - 내 아이디어로 지원금 받기'를 안내합니다. 창업에 관심 있는 재학생이면 누구나 참여할 수 있고 비교과 지수 2점이 부여되며, 신청은 포스터의 QR코드로 합니다.",
         "reason": "비교과·PSC 관심사에 해당하고 11월 4일 행사가 닷새 뒤라 일정이 가깝습니다. 컴퓨터공학전공 1학년 전용은 아니지만 재학생이면 신청할 수 있습니다.",
         "score": 4,
@@ -1669,6 +1657,7 @@
         "area": "",
         "points": null,
         "origin": "notice",
+        "posted": "2026-10-28",
         "summary": "본문 기준으로 2026년 제2차 항공 현직자 취업특강(Air부산 드림멘토)을 안내합니다. 11월 17일 13시부터 16시까지 호텔 농심에서 열리며, 참가 신청은 11월 13일 14시까지 부산일자리정보망 JOB프로그램에서 온라인으로 받습니다.",
         "reason": "취업·현장실습 관심사와 맞지만 대상이 부산 지역 항공 취업 희망 청년(18~39세)이라 1학년 컴퓨터공학전공 학생은 대상 여부를 확인해야 합니다.",
         "score": 3,
@@ -1683,6 +1672,7 @@
         "area": "",
         "points": null,
         "origin": "notice",
+        "posted": "2026-10-19",
         "summary": "제목 기준으로 보면 만오교양대학 리터러시 코칭 특강 2회 차 '인터넷과 정보보안' 강연의 신청 안내입니다. 본문을 가져오지 못해 상세 내용은 원문에서 확인해야 합니다.",
         "reason": "컴퓨터공학전공 학생에게 정보보안 주제가 맞고 비교과·PSC 관심사에 해당하는 특강입니다. 신청 기간은 원문에서 확인해야 합니다.",
         "score": 3,
@@ -1697,6 +1687,7 @@
         "area": "",
         "points": null,
         "origin": "notice",
+        "posted": "2026-10-29",
         "summary": "제목 기준으로 보면 글로벌공존특강 시리즈 2 강연회 안내입니다. 전임 주독일한국대사 임상범 대사의 특별 초청 강연회이며, 본문을 가져오지 못해 상세 내용은 원문에서 확인해야 합니다.",
         "reason": "특강·세미나 형식의 비교과이고 최근 1일 이내 공지입니다. 컴퓨터공학전공 1학년과 직접 이어지는 주제인지는 원문에서 확인해야 합니다.",
         "score": 2,
@@ -1711,6 +1702,7 @@
         "area": "",
         "points": null,
         "origin": "notice",
+        "posted": "2026-10-19",
         "summary": "제목 기준으로 보면 만오교양대학 미래를 여는 아르케 인문특강 1회 차 '인도 다원주의를 통해 본 한국 사회' 강연 신청 안내입니다. 본문을 가져오지 못해 상세 내용은 원문에서 확인해야 합니다.",
         "reason": "비교과·PSC 관심사에 해당하는 인문 특강이라 참여는 가능하지만 컴퓨터공학전공과의 직접 연결은 약합니다.",
         "score": 2,
@@ -1725,6 +1717,7 @@
         "area": "",
         "points": null,
         "origin": "notice",
+        "posted": "2026-10-22",
         "summary": "제목 기준으로 보면 일본어융합학부의 노래로 배우는 일본어 특강 행사 안내입니다. 본문을 가져오지 못해 상세 내용은 원문에서 확인해야 합니다.",
         "reason": "특강·세미나 형식의 비교과이지만 일본어 학습 행사라 컴퓨터공학전공 1학년에게는 직접 연결되지 않습니다.",
         "score": 1,
